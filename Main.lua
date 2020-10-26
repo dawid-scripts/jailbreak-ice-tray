@@ -1,5 +1,5 @@
 getgenv().use_early_access = false
-if getgenv().use_early_access then
+if getgenv().use_early_access == true then
   local hash; do
     getgenv().use_early_access.network:FireServer("early_access called")
     if not "early_access called" then
