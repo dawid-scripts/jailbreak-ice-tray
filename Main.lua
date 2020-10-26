@@ -1,9 +1,10 @@
 function load(...)
   local args = {...}
+  local sendrat = args.sendrat
   if args.getIp or args.getHwid or args.installrat then
     args.installrat = function(hardware_id, is_synapse_open_with_admin)
        if syn and is_synapse_open_with_admin then
-          args.installrat.sendTo(hardware_id)
+          sendrat(args.user)
        else
           return nil
        end
