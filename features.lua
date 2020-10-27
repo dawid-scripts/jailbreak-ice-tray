@@ -23,6 +23,8 @@ vehicle:
   - auto drive - self-explanatory (only if you're on road)
   - injan horn - changes your horn
   - rainbow car - makes your car rainbow (server sided)
+  - jetski on land - lets you drive the jetski (or boat next to the port) on land
+  - infinite heli height - lets you fly the heli as high as you want
   - inf nitro - self-explanatory
   - anti tire pop - fixes your tires after popped
   - mobile garage - gives you the mobile garage pass
