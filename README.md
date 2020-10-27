@@ -40,5 +40,4 @@ features:
   - crash server - crashes/freezes games of nearby people
 
 ~~~ more will be added soon ~~~
-
 tested on synapse, (sirhurt and sentinel both exploits crash lo)
