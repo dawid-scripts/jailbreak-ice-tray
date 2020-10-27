@@ -1,8 +1,6 @@
 # jailbreak-ice-tray
 
 features:
-
-player:
   - walkspeed - lets you walk faster
   - jumppower - lets you jump higher
   - noclip - lets you to walk through walls
@@ -12,7 +10,6 @@ player:
   - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
   - anti arrest - will auto break you out after you got arrested
   - godmode - attempts to get you healed everytime you take damage
-vehicle:
   - height - makes your car higher
   - turning speed - makes your car turn faster
   - speed - makes your car go faster
@@ -26,10 +23,8 @@ vehicle:
   - inf nitro - self-explanatory
   - anti tire pop - fixes your tires after popped
   - mobile garage - gives you the mobile garage pass
-teleports:
   - teleport to player
   - bruh
-combat:
   - inf fuel - gives you infinite jetpack fuel
   - kill aura - kills everyone that comes into your range
   - arrest aura - arrests everyone that comes into your range (you need to be a cop)
@@ -37,7 +32,6 @@ combat:
   - give guns - gives you all the important in game guns
   - arrest all - arrests every criminal on the server
   - force stop arrest all - attempts to force stop arrest all
-fun:
   - give money - gives you money
   - open all doors - opens all doors (server sided)
   - eject all - kicks everyone out of your car (except you)
