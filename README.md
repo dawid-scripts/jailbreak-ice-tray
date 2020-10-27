@@ -4,4 +4,4 @@ ice tray jailbreak.
 
 permanent discord invite: https://discord.gg/R8Ar3Cq
 
-features can be found in the `feature.lua` file.
+features can be found in the `features.lua` file.
