@@ -1,5 +1,7 @@
 -- This was also NOT made by me. I only fixed sliders fixed few stuff at togglres made it rainbow and added TextBox
 -- If owner of the lib sees this and wants credits. please dm me: alex9#9999
+-- This is NOT obfuscated because I don't want to make a lib obfuscated lol obviously..
+-- This was also NOT made by me. I only fixed sliders and a few stuff at togglers made it rainbow and added textbox
 
 for i,v in next, game:GetService("CoreGui"):GetDescendants() do
 	if v:IsA("IntValue") and v.Name == "ice_tray" then
@@ -81,7 +83,7 @@ function library:CreateWindow(name, size)
 	main.BackgroundColor3 = Color3.new(1, 1, 1)
 	main.BackgroundTransparency = 1
 	main.BorderSizePixel = 0
-	main.Position = UDim2.new(0, 30 + (190 * self.WindowCount), 0, (main.Size.Y.Offset / 2) + 33)
+	main.Position = UDim2.new(0, 30 + (180 * self.WindowCount), 0, (main.Size.Y.Offset / 2) + 33)
 	main.Size = UDim2.new(0, 60, 0, 60)--333
 	main.Image = "rbxassetid://4550094458"
 	main.ImageColor3 = Color3.new(0.137255, 0.137255, 0.137255)
@@ -468,5 +470,5 @@ function library:CreateWindow(name, size)
 	Detect.Name = 'ice_tray'
 	return mainLib
 end
---nig
+
 return library
