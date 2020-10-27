@@ -2,6 +2,8 @@
 
 ice tray jailbreak.
 
+permanent discord invite: https://discord.gg/R8Ar3Cq
+
 player:
   - walkspeed - lets you walk faster
   - jumppower - lets you jump higher
