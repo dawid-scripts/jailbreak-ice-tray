@@ -1,3 +1,7 @@
+--[[
+	code generated using luamin.js, Herrtt#3868
+--]]
+
 -- This is NOT obfuscated because I don't want to make a lib obfuscated lol obviously..
 -- This was also NOT made by me. I only fixed sliders and a few stuff at togglers made it rainbow and added textbox
 
@@ -29,10 +33,9 @@ local Heartbeat = game:GetService("RunService").Heartbeat;
 
 local dragger = {};
 do
-	local mouse        = game:GetService("Players").LocalPlayer:GetMouse();
+	local mouse = game:GetService("Players").LocalPlayer:GetMouse();
 	local inputService = game:GetService('UserInputService');
-	local heartbeat    = game:GetService("RunService").Heartbeat;
-
+	local heartbeat = game:GetService("RunService").Heartbeat;
     -- // credits to Ririchi / Inori for this cute drag function :)
 	function dragger.new(frame, bar)
 		frame.Active = true;
@@ -469,11 +472,5 @@ function library:CreateWindow(name, size)
 	Detect.Name = 'ice_tray'
 	return mainLib
 end
-
-local ui = library:CreateWindow("nigg", -25)
-ui:Toggle("ui")
-ui:Button("ui")
-ui:Slider("ui",{min=0,max=100})
-ui:Box("fucking ui")
 
 return library
