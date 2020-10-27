@@ -50,5 +50,4 @@ fun:
 tested on synapse, (sirhurt and sentinel both exploits crash lo)
 ]]
 
-
-return
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/jailbreak-ice-tray/main/Main.lua",true))()
