@@ -1,12 +1,8 @@
---[[
-	code generated using luamin.js, Herrtt#3868
---]]
+-- This was also NOT made by me. I only fixed sliders fixed few stuff at togglres made it rainbow and added TextBox
+-- If owner of the lib sees this and wants credits. please dm me: alex9#9999
 
--- This is NOT obfuscated because I don't want to make a lib obfuscated lol obviously..
--- This was also NOT made by me. I only fixed sliders and a few stuff at togglers made it rainbow and added textbox
-
-for _, v in next, game:GetService('CoreGui'):GetDescendants() do
-	if v:IsA('IntValue') and v.Name == 'ice_tray' then
+for i,v in next, game:GetService("CoreGui"):GetDescendants() do
+	if v:IsA("IntValue") and v.Name == "ice_tray" then
 		v.Parent:Destroy()
 	end
 end
