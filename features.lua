@@ -9,9 +9,9 @@ player:
   - antiragdoll - removes ragdoll
   - fly - lets you fly
   - nowait - removes that E gui timer
-  - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
   - anti arrest - will auto break you out after you got arrested
   - godmode - attempts to get you healed everytime you take damage
+  - remove team cooldown - removes the change team cooldown
 vehicle:
   - height - makes your car higher
   - turning speed - makes your car turn faster
@@ -21,12 +21,9 @@ vehicle:
   - shoot while drive - allows you to shoot a gun while driving
   - unlock garage - unlocks the whole garage
   - auto drive - self-explanatory (only if you're on road)
-  - injan horn - changes your horn
   - rainbow car - makes your car rainbow (server sided)
-  - jetski on land - lets you drive the jetski (or boat next to the port) on land
   - infinite heli height - lets you fly the heli as high as you want
   - inf nitro - self-explanatory
-  - anti tire pop - fixes your tires after popped
   - mobile garage - gives you the mobile garage pass
 teleports:
   - teleport to player
@@ -46,6 +43,13 @@ fun:
   - invisbile - makes you invisbile (server sided)
   - annoy server - plays loud annoying sounds (serversided)
   - crash server - crashes/freezes games of nearby people
+misc:
+  - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
+  - jetski on land - lets you drive the jetski (or boat next to the port) on land
+  - anti tire pop - fixes your tires after popped
+  - injan horn - changes your horn
+  - give police clothing - gives you the police clothes
+  - remove clothing - removes your police/prisoner clothes
 
 ~~~ more will be added soon ~~~
 
