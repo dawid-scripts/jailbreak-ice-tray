@@ -65,7 +65,6 @@ game:GetService('UserInputService').InputBegan:connect(function(key, gpe)
 	if key.KeyCode == Enum.KeyCode.RightShift and library.gui then
 		library.toggled = not library.toggled;
 		library.gui.Enabled = library.toggled;
-		shared.Cursor.Visible = library.toggled;
 	end
 end)
 
