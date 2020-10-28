@@ -1,5 +1,3 @@
---[[
-
 features:
 
 player:
@@ -50,10 +48,3 @@ misc:
   - injan horn - changes your horn
   - give police clothing - gives you the police clothes
   - remove clothing - removes your police/prisoner clothes
-
-~~~ more will be added soon ~~~
-
-tested on synapse, (sirhurt and sentinel both exploits crash lo)
-]]
-
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/jailbreak-ice-tray/main/Main.lua",true))()
