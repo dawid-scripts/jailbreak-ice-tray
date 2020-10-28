@@ -41,6 +41,7 @@ fun:
   - invisbile - makes you invisbile (server sided)
   - annoy server - plays loud annoying sounds (serversided)
   - crash server - crashes/freezes games of nearby people
+  - open all safes - opens all safes that you have
 misc:
   - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
   - jetski on land - lets you drive the jetski (or boat next to the port) on land
