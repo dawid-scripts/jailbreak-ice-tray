@@ -15,7 +15,6 @@ vehicle:
   - turning speed - makes your car turn faster
   - speed - makes your car go faster
   - brakes - makes your car brake faster
-  - car fly - lets you fly with the car
   - shoot while drive - allows you to shoot a gun while driving
   - unlock garage - unlocks the whole garage
   - auto drive - self-explanatory (only if you're on road)
@@ -49,4 +48,5 @@ misc:
   - injan horn - changes your horn
   - give police clothing - gives you the police clothes
   - remove clothing - removes your police/prisoner clothes
+  - removes lasers - removes every laser on the map
   - equip jetpack - gives you the jetpack if you have it
