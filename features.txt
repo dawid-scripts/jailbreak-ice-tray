@@ -49,4 +49,4 @@ misc:
   - injan horn - changes your horn
   - give police clothing - gives you the police clothes
   - remove clothing - removes your police/prisoner clothes
-  - equip jetpack - equips you the jetpack if you have it
+  - equip jetpack - gives you the jetpack if you have it
