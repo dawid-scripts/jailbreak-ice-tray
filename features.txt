@@ -49,4 +49,5 @@ misc:
   - give police clothing - gives you the police clothes
   - remove clothing - removes your police/prisoner clothes
   - removes lasers - removes every laser on the map
+  - teleport to airdrop - teleports you to a airdrop on the map (if there are any)
   - equip jetpack - gives you the jetpack if you have it
