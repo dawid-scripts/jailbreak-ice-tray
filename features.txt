@@ -19,7 +19,6 @@ vehicle:
   - unlock garage - unlocks the whole garage
   - auto drive - self-explanatory (only if you're on road)
   - rainbow car - makes your car rainbow (server sided)
-  - infinite heli height - lets you fly the heli as high as you want
   - inf nitro - self-explanatory
   - mobile garage - gives you the mobile garage pass
 teleports:
@@ -41,13 +40,16 @@ fun:
   - annoy server - plays loud annoying sounds (serversided)
   - crash server - crashes/freezes games of nearby people (recommanded on streamers)
   - open all safes - opens all safes that you have
+  - copy discord link - copies the discord link
 misc:
-  - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
-  - jetski on land - lets you drive the jetski (or boat next to the port) on land
+  - jetski on land - lets you drive the jetski on land
+  - infinite heli height - lets you fly the heli as high as you want
   - anti tire pop - fixes your tires after popped
   - injan horn - changes your horn
+  - click nuke - click anywhere and a nuke will spawn (client-side)
   - give police clothing - gives you the police clothes
   - remove clothing - removes your police/prisoner clothes
   - removes lasers - removes every laser on the map
-  - teleport to airdrop - teleports you to a airdrop on the map (if there are any)
   - equip jetpack - gives you the jetpack if you have it
+  - teleport to airdrop - teleports you to a airdrop on the map (if there are any)
+  - teleport to cargoship - teleports you to the cargoship (if its on the map)
