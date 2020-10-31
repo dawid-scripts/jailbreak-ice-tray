@@ -39,7 +39,7 @@ fun:
   - eject all - kicks everyone out of your car (except you)
   - invisbile - makes you invisbile (server sided)
   - annoy server - plays loud annoying sounds (serversided)
-  - crash server - crashes/freezes games of nearby people
+  - crash server - crashes/freezes games of nearby people (recommanded on streamers)
   - open all safes - opens all safes that you have
 misc:
   - pressing e reach - https://imgur.com/a/M19ujkj (you can select your distance, max 150) & there should be nothing in your way
