@@ -44,6 +44,7 @@ fun:
 misc:
   - jetski on land - lets you drive the jetski on land
   - infinite heli height - lets you fly the heli as high as you want
+  - disable turrets - disables the turret that fires at you when you go near the cargoship
   - anti tire pop - fixes your tires after popped
   - injan horn - changes your horn
   - click nuke - click anywhere and a nuke will spawn (client-side)
