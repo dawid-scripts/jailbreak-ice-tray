@@ -20,6 +20,8 @@ vehicle:
   - auto drive - self-explanatory (only if you're on road)
   - rainbow car - makes your car rainbow (server sided)
   - inf nitro - self-explanatory
+  - spam carlights - spams the carlights
+  - always drift - always drifts your car
   - mobile garage - gives you the mobile garage pass
 teleports:
   - teleport to player
