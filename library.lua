@@ -1,8 +1,9 @@
 -- This was also NOT made by me. I only fixed sliders fixed few stuff at togglres made it rainbow and added TextBox
 -- If owner of the lib sees this and wants credits. please dm me: alex9#9999
 
+getgenv().useoldui = true
 
-if not getgenv().useoldui then
+if getgenv().useoldui == false then
 	local ui_options = {
 	main_color = Color3.fromRGB(41, 74, 122),
 	min_size = Vector2.new(550, 600),
