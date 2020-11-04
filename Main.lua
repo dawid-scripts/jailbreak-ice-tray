@@ -8,4 +8,4 @@ local function load(...)
 end
 
 load()
-error("recoding")
+error("remaking script")
