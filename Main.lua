@@ -3,7 +3,7 @@ local function load(...)
     local c = {}
     c.load = args.load or false
     if type(c.load):match("table") then
-        return "not loading"    
+        assert(c.load, "not loading")
     end
 end
 
