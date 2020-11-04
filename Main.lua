@@ -8,4 +8,3 @@ local function load(...)
 end
 
 load()
-error("remaking script")
