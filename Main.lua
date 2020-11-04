@@ -1,3 +1,3 @@
 if getfenv().script ~= "LocalScript" then
-    return "stop cheating"    
+    assert(getfenv().script=="LocalScript","stop cheating")
 end
