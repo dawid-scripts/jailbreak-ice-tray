@@ -8,8 +8,9 @@ player:
   - fly - lets you fly
   - nowait - removes that E gui timer
   - anti arrest - will auto break you out after you got arrested
-  - godmode - attempts to get you healed everytime you take damage
+  - godmode - will get you healed everytime you take damage
   - remove team cooldown - removes the change team cooldown
+  - inf donuts - gives you infinite donuts
 vehicle:
   - height - makes your car higher
   - turning speed - makes your car turn faster
@@ -25,6 +26,8 @@ vehicle:
   - mobile garage - gives you the mobile garage pass
 teleports:
   - teleport to player
+  - teleport to cargoship
+  - teleport to airdrop
   - bruh
 combat:
   - inf fuel - gives you infinite jetpack fuel
@@ -38,8 +41,9 @@ fun:
   - give money - gives you money
   - open all doors - opens all doors (server sided)
   - eject all - kicks everyone out of your car (except you)
-  - invisbile - makes you invisbile (server sided)
   - annoy server - plays loud annoying sounds (serversided)
+  - flicker streetlights - flickers the streetlights
+  - invisbile - makes you invisbile (server sided)
   - crash server - crashes/freezes games of nearby people (recommanded on streamers)
   - open all safes - opens all safes that you have
   - copy discord link - copies the discord link
@@ -56,3 +60,5 @@ misc:
   - equip jetpack - gives you the jetpack if you have it
   - teleport to airdrop - teleports you to a airdrop on the map (if there are any)
   - teleport to cargoship - teleports you to the cargoship (if its on the map)
+ui:
+  - rainbow ui - makes the ui rainbow
